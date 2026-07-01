@@ -26,7 +26,7 @@ The pipeline evaluates object detection model performance by comparing predicted
 - `object_detection_evaluation.ipynb` - Main Jupyter Notebook with all implementations
 - `ground_truth_boxes.csv` - Ground truth bounding box annotations
 - `predicted_boxes.csv` - Model predictions with confidence scores
-- `precision_recall_curve.png` - PR curve visualization output
+
 
 ## Requirements
 
@@ -43,6 +43,3 @@ The pipeline evaluates object detection model performance by comparing predicted
 3. Open and run the Jupyter Notebook
 4. All results will be printed and the PR curve will be saved
 
-## Academic Context
-
-This was created as part of a Computer Vision course practical on object detection evaluation methodologies.
